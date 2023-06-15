@@ -29,7 +29,7 @@ function changeImage(hovering) {
   var buttonImage = document.getElementById('button');
 
   if (hovering) {
-    buttonImage.src = 'img/download_button_Pressed.png';
+    buttonImage.src = 'img/download_Button_Pressed.png';
   } else {
     buttonImage.src = 'img/download_Button.png';
   }
