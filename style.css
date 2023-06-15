@@ -339,7 +339,9 @@ ul.nav {
     #button {
         width: 100px;
     }
-
+    .download-page {
+        min-height: 45vh;
+    }
     #character {
         height: 100px;
         width: auto;
