@@ -336,6 +336,26 @@ ul.nav {
     .about-page video {
         width: 350px;
     }
+    #button {
+        width: 100px;
+    }
+
+    #character {
+        height: 100px;
+        width: auto;
+    }
+
+    #land {
+        width: 100px;
+        height: auto;
+    }
+
+    #slime {
+        height: 100px;
+        width: auto;
+        margin-left: 25px;
+        margin-right: 25px;
+    }
 }
 
 @media (max-width: 320px) {
